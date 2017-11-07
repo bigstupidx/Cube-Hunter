@@ -1,4 +1,4 @@
-# Cube-Hunter
+# Cube Hunter
 
 Made with Unity3D and C#
 
