@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e9faff643f90ecd4dba5ed865c621174
+timeCreated: 1476123371
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Eden Mills
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 02fd93c3e62e3754c926637069e07eab, type: 3}
+  - {fileID: 12800000, guid: 1ea54664e21372540aca640057661549, type: 3}
+  - {fileID: 12800000, guid: 675cc35bda609f043be495996ccd2189, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

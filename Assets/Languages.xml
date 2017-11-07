@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <language id="TR">
+    <word>
+      <key>s01_b01</key>
+      <value>Oyna</value>
+    </word>
+    <word>
+      <key>s01_b02</key>
+      <value>Seçenekler</value>
+    </word>
+  </language>
+  <language id="EN">
+    <word>
+      <key>s01_b01</key>
+      <value>Play</value>
+    </word>
+  </language>
+  <language id="FR">
+    <word>
+      <key>s01_b01</key>
+      <value>Test</value>
+    </word>
+  </language>
+</languages>
